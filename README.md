@@ -1,6 +1,17 @@
+
 # PetSureWebApi
 technical exam
-
+STEPS:
+  1. Locate petsuredb.sql file and run the sql script on your local machine
+  2. Edit web.config input your local credential and the name of your local server in the "petsureEntities" section
+  3. Compile and run.
+  4. Copy the base url ex: http://localhost:55434/
+  5. Open the PetSureWeb solution
+  6. Go to app folder and locate app.js
+  7. under myControllerFunction function edit the 'url' variable 
+  8. Paste the base url the web api has produced  ex: http://localhost:55434/
+  9. Compile and run.
+  
 This project consist of two solutions 
 1.web-api
 2.web forms
