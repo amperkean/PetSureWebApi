@@ -11,6 +11,7 @@ STEPS:
   7. under myControllerFunction function edit the 'url' variable 
   8. Paste the base url the web api has produced  ex: http://localhost:55434/
   9. Compile and run.
+  10. If does'nt automatically navigated to ,please manually go to index.aspx.. http://localhost:55434/index.aspx
   
 This project consist of two solutions 
 1.web-api
